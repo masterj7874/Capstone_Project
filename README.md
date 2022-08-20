@@ -34,6 +34,7 @@ Sentiment analysis involves the following stages:
 
 #### Results
 What did your research find?
+
 Although our goal is to maximize accuracy, bias and variance are other important factors to consider since our focus is on an under resources language and also adequately detecting negative sentiment without being biased.
 
 There are over 6900 languages in the world today and only a small fraction offers the resources required for the implementation of Natural Language processing or Human Language Technologies.
@@ -50,9 +51,6 @@ This limitation can be address in large using data collection techquies, such as
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
+- [Link to notebook]()
 
 ##### Contact and Further Information
