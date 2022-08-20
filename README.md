@@ -51,6 +51,6 @@ This limitation can be address in large using data collection techquies, such as
 
 #### Outline of project
 
-- [Link to notebook]()
+- [Link to notebook](https://github.com/masterj7874/Capstone_Project/blob/main/Sentiment%20Identification.ipynb)
 
 ##### Contact and Further Information
